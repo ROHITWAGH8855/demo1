@@ -1,1 +1,1 @@
-this is instruction manual to project
+this is instruction manual to project.
